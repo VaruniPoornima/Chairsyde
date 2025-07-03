@@ -1,4 +1,4 @@
-# CHAIRSIDE - UI Test
+# CHAIRSYDE - UI Test
 
 ## Prerequisites
 
